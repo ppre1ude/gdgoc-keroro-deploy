@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="개구리 마스코트">
+  <circle cx="60" cy="66" r="40" fill="#5cc45a"/>
+  <path d="M20 66 A40 40 0 0 1 100 66 Z" fill="#f5d33f"/>
+  <rect x="16" y="58" width="14" height="30" rx="7" fill="#f5d33f"/>
+  <rect x="90" y="58" width="14" height="30" rx="7" fill="#f5d33f"/>
+  <polygon points="60,33 62.4,38.8 68.6,39.2 63.8,43.2 65.3,49.3 60,46 54.7,49.3 56.2,43.2 51.4,39.2 57.7,38.8" fill="#e5484d"/>
+  <circle cx="44" cy="72" r="11" fill="#fff"/>
+  <circle cx="76" cy="72" r="11" fill="#fff"/>
+  <circle cx="45" cy="73" r="5" fill="#111"/>
+  <circle cx="75" cy="73" r="5" fill="#111"/>
+  <ellipse cx="33" cy="87" rx="5" ry="3" fill="#f9a8b0"/>
+  <ellipse cx="87" cy="87" rx="5" ry="3" fill="#f9a8b0"/>
+  <path d="M50 90 Q60 100 70 90" stroke="#1f3d22" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
